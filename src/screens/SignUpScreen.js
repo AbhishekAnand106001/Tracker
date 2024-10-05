@@ -10,7 +10,7 @@ const SignUpScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <Spacer>
-        <Text h3>Sign Up for Tracker</Text>
+        <Text >Sign Up for Tracker</Text>
       </Spacer>
       <Input
         label="Email"
